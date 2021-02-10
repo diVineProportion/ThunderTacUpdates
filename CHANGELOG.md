@@ -1,5 +1,8 @@
 ### Changelog
 
+> **2.1.2**  *2021-2-10*
+> - sync changelog to version
+
 > **2.1.1**  *2021-2-10*
 > - revert tqdm to old method
 
