@@ -1,5 +1,10 @@
 ### Changelog
 
+> **2.1.0**  *2021-2-10*
+> - automatic updates
+> - automatic name discovery
+> - automatic session discovery
+
 > **2.0.0**  *2021-2-10*
 > - major update; old versions incompatible
 
