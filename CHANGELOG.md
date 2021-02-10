@@ -1,5 +1,8 @@
 ### Changelog
 
+> **2.1.1**  *2021-2-10*
+> - revert tqdm to old method
+
 > **2.1.0**  *2021-2-10*
 > - automatic updates
 > - automatic name discovery
