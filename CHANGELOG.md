@@ -1,5 +1,9 @@
 ### Changelog
 
+> **2.1.5**  *2021-2-12*
+> - reworked get_user_alias for better encoding detection
+> - add Japanese to get_window_title list
+
 > **2.1.4**  *2021-2-10*
 > - properly handle Japanese system local
 
