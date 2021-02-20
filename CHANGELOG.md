@@ -1,5 +1,7 @@
 ### Changelog
 
+> **2.1.8**  *2021-2-19*
+
 > **2.1.7**  *2021-2-19*
 > - (config.py) | attempt fix for Japanese i18n
 > - (main.py) | attempt fix for Japanese i18n
