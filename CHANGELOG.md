@@ -1,5 +1,12 @@
 ### Changelog
 
+> **2.1.7**  *2021-2-19*
+> - (config.py) | attempt fix for Japanese i18n
+> - (main.py) | attempt fix for Japanese i18n
+> - (main.py) | temp disable all MQTT
+> - (main.py) | switch alt from state["H, m"] to indicators["altitude_10k"]/["altitude_hour"]
+> - (main.py) | add option for neutral or unknown/undetermined team identification
+
 > **2.1.6**  *2021-2-17*
 
 > **2.1.5**  *2021-2-12*
