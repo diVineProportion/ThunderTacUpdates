@@ -1,5 +1,8 @@
 ### Changelog
 
+> **2.1.10**  *2021-2-21*
+> - (main.py) | temp removal of control surface controls
+
 > **2.1.9**  *2021-2-21*
 
 > **2.1.8**  *2021-2-19*
