@@ -1,5 +1,8 @@
 ### Changelog
 
+> **2.1.12**  *2021-2-23*
+> - (main.py) | revert back to state altitude
+
 > **2.1.11**  *2021-2-23*
 > - (main.py) | added internet shortcut to ftp folder (windows users)
 > - (main.py) | use more accurate altitude reading fixed
