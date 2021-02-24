@@ -1,5 +1,12 @@
 ### Changelog
 
+> **2.1.11**  *2021-2-23*
+> - (main.py) | added internet shortcut to ftp folder (windows users)
+> - (main.py) | use more accurate altitude reading fixed
+> - (main.py) | fallback for planes with lacking instrumentation
+> - (main.py) | enabled flag to bypass update check
+> - (main.py) | enabled flag for debug with stdout
+
 > **2.1.10**  *2021-2-21*
 > - (main.py) | temp removal of control surface controls
 
