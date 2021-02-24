@@ -1,5 +1,8 @@
 ### Changelog
 
+> **2.1.13**  *2021-2-23*
+> - (main.py) | enable mqtt statistics reporting
+
 > **2.1.12**  *2021-2-23*
 > - (main.py) | revert back to state altitude
 
