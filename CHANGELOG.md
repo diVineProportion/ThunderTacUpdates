@@ -1,5 +1,9 @@
 ### Changelog
 
+> **2.1.14**  *2021-3-25*
+> - (config.py) | replaced waiting animation with message to start aces.exe
+> - (main.py) | change depth for pysnooper client debug
+
 > **2.1.13**  *2021-2-23*
 > - (main.py) | enable mqtt statistics reporting
 
