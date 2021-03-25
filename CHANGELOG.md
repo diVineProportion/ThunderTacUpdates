@@ -1,5 +1,9 @@
 ### Changelog
 
+> **2.1.15**  *2021-3-25*
+> - (main.py) | updated url for fetch wtunits.json
+> - (main.py) | wtunits will download every time (~350kb)
+
 > **2.1.14**  *2021-3-25*
 > - (config.py) | replaced waiting animation with message to start aces.exe
 > - (main.py) | change depth for pysnooper client debug
