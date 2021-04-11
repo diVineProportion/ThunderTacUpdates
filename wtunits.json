@@ -9556,6 +9556,11 @@
             "long": "MiG-21PFM",
             "short": "MiG-21"
         },
+        "f-4f": {
+            "full": "▀ F-4F Phantom II Early",
+            "long": "▀ F-4F Early",
+            "short": "▀F-4F"
+        },
         "f-4c": {
             "full": "F-4C Phantom II",
             "long": "F-4C",
