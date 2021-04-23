@@ -1,39 +1,38 @@
 ### Changelog
 
 > **2.1.15**  *2021-3-25*
-> - (main.py) | updated url for fetch wtunits.json
-> - (main.py) | wtunits will download every time (~350kb)
+> - updated url for fetch wtunits.json
+> - wtunits will download every time (~350kb)
 
 > **2.1.14**  *2021-3-25*
-> - (config.py) | replaced waiting animation with message to start aces.exe
-> - (main.py) | change depth for pysnooper client debug
+> - replaced waiting animation with message to start aces.exe
+> - change depth for pysnooper client debug
 
 > **2.1.13**  *2021-2-23*
-> - (main.py) | enable mqtt statistics reporting
+> - enable mqtt statistics reporting
 
 > **2.1.12**  *2021-2-23*
-> - (main.py) | revert back to state altitude
+> - revert back to state altitude
 
 > **2.1.11**  *2021-2-23*
-> - (main.py) | added internet shortcut to ftp folder (windows users)
-> - (main.py) | use more accurate altitude reading fixed
-> - (main.py) | fallback for planes with lacking instrumentation
-> - (main.py) | enabled flag to bypass update check
-> - (main.py) | enabled flag for debug with stdout
+> - added internet shortcut to ftp folder (windows users)
+> - use more accurate altitude reading fixed
+> - fallback for planes with lacking instrumentation
+> - enabled flag to bypass update check
+> - enabled flag for debug with stdout
 
 > **2.1.10**  *2021-2-21*
-> - (main.py) | temp removal of control surface controls
+> - temp removal of control surface controls
 
 > **2.1.9**  *2021-2-21*
 
 > **2.1.8**  *2021-2-19*
 
 > **2.1.7**  *2021-2-19*
-> - (config.py) | attempt fix for Japanese i18n
-> - (main.py) | attempt fix for Japanese i18n
-> - (main.py) | temp disable all MQTT
-> - (main.py) | switch alt from state["H, m"] to indicators["altitude_10k"]/["altitude_hour"]
-> - (main.py) | add option for neutral or unknown/undetermined team identification
+> - attempt fix for Japanese i18n
+> - temp disable all MQTT
+> - switch alt from state["H, m"] to indicators["altitude_10k"]/["altitude_hour"]
+> - add option for neutral or unknown/undetermined team identification
 
 > **2.1.6**  *2021-2-17*
 
