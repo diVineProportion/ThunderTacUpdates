@@ -1,5 +1,8 @@
 ### Changelog
 
+> **2.2.1**  *2021-4-23*
+> - fix update killer
+
 > **2.2.0**  *2021-4-23*
 > - set_filename() now returns pathlib object instead of string
 > - implement new location detection system
