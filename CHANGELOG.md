@@ -1,5 +1,12 @@
 ### Changelog
 
+> **2.2.0**  *2021-4-23*
+> - set_filename() now returns pathlib object instead of string
+> - implement new location detection system
+> - retain original location detection system as fallback
+> - fix archive naming from acmi.zip to zip.acmi
+> - disabled ctrl+c block
+
 > **2.1.15**  *2021-3-25*
 > - updated url for fetch wtunits.json
 > - wtunits will download every time (~350kb)
