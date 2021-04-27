@@ -69,6 +69,20 @@
             5460.0
         ]
     },
+    "levels/air_skyscraper_city.bin": {
+        "mapTotal": [
+            65536.0,
+            65536.0
+        ],
+        "mapCoord0": [
+            -32768.0,
+            -32768.0
+        ],
+        "mapCoord1": [
+            32768.0,
+            32768.0
+        ]
+    },
     "levels/air_smolensk.bin": {
         "mapTotal": [
             131072.0,
