@@ -1,5 +1,11 @@
 ### Changelog
 
+> **2.2.2**  *2021-5-20*
+> - add open cfg option for nix
+> - impose 1s pause when not in battle (reduce CPU)
+> - add roll filter
+> - add experimental gunfire
+
 > **2.2.1**  *2021-4-23*
 > - fix update killer
 
@@ -22,7 +28,7 @@
 > - enable mqtt statistics reporting
 
 > **2.1.12**  *2021-2-23*
-> - revert back to state altitude
+> - revert to state altitude
 
 > **2.1.11**  *2021-2-23*
 > - added internet shortcut to ftp folder (windows users)
